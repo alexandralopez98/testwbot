@@ -1,1 +1,4 @@
-# alexa2.0
+# Data Structures Final Project
+Alexandra Lopez
+Sam MacGinty
+Angelica Franco
